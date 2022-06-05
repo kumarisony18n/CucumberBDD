@@ -18,7 +18,7 @@ public class UserSkillMappingSteps {
 	@Then("user is able to read all userskill mappings with success status code")
 	public void user_is_able_to_read_all_userskill_mappings_with_success_status_code() {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("Inside Step-user is able to read all userskill mappings with success status code");
+		System.out.println("Inside the Step-user is able to read all userskill mappings with success status code");
 	}
 
 	@Given("User is on Get request for specific userskill")
