@@ -6,7 +6,7 @@ public class UserSkillMappingSteps {
 	@Given("User is on Get request")
 	public void user_is_on_get_request() {
 	    // Write code here that turns the phrase above into concrete actions
-		System.out.println("Inside Step-User is on Get request");
+		System.out.println("I am Inside Step-User is on Get request");
 	}
 
 	@When("User sends the request")
